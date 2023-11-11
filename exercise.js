@@ -22,17 +22,17 @@
 //alert(onlineLectureGoal);
 
 //3
-let online = {
-  lectcure: "web",
-  price: "12000",
-  goal: ["실력", "코딩", "개념"],
-};
+// let online = {
+//   lectcure: "web",
+//   price: "12000",
+//   goal: ["실력", "코딩", "개념"],
+// };
 
-alert(online.lectcure);
-alert(online.price);
-alert(online.goal);
+// alert(online.lectcure);
+// alert(online.price);
+// alert(online.goal);
 
-//4
-alert(online.goal[1]);
+// //4
+// alert(online.goal[1]);
 
 
