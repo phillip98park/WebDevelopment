@@ -20,3 +20,6 @@ console.log('mapark '-'park');
 let userName = 'phil';
 console.log(userName.length);
 console.log(userName.toUpperCase())
+
+let hobbies = ['sport','chess'];
+console.log(hobbies.length);
